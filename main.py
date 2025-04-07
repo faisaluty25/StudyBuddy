@@ -5,7 +5,7 @@ st.set_page_config(page_title="Welcome to StudyBuddy", page_icon="🎓", layout=
 
 with st.sidebar:
     st.markdown("## 📚 Study Buddy")
-    st.markdown("Navigate from the sidebar 👇")
+    st.markdown("---")
 
 # --------
 # Navigation links

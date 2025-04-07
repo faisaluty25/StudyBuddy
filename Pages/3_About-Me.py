@@ -9,7 +9,7 @@ st.set_page_config(page_title="About Me", layout="wide", page_icon="🙋‍♂�
 
 with st.sidebar:
     st.markdown("## 📚 Study Buddy")
-    st.markdown("Navigate from the sidebar 👇")
+    st.markdown("---")
     
 # Top navigation bar
 # col1, col2, col3 = st.columns(3)
