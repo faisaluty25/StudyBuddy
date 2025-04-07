@@ -3,6 +3,10 @@ import streamlit as st
 # Set page configuration
 st.set_page_config(page_title="Welcome to StudyBuddy", page_icon="🎓", layout="wide")
 
+with st.sidebar:
+    st.markdown("## 📚 Study Buddy")
+    st.markdown("---")
+
 # --------
 # Navigation links
 # col1, col2, col3 = st.columns(3)

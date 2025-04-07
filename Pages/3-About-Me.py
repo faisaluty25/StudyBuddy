@@ -7,6 +7,10 @@ import os
 # Set page config (must be at the top)
 st.set_page_config(page_title="About Me", layout="wide", page_icon="🙋‍♂️")
 
+with st.sidebar:
+    st.markdown("## 📚 Study Buddy")
+    st.markdown("---")
+    
 # Top navigation bar
 # col1, col2, col3 = st.columns(3)
 
