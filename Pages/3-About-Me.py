@@ -11,13 +11,13 @@ st.set_page_config(page_title="About Me", layout="wide", page_icon="🙋‍♂�
 col1, col2, col3 = st.columns(3)
 
 with col1:
-    st.page_link("main.py", label="Home", icon="🏠")
+    st.page_link(r"main.py", label="Home", icon="🏠")
 
 with col2:
-    st.page_link("Pages/2-chat.py", label="ChatBot", icon="🤖")
+    st.page_link(r"Pages\2-chat.py", label="ChatBot", icon="🤖")
 
 with col3:
-    st.page_link("Pages/3-About-Me.py", label="About Me", icon="🙋‍♂️")
+    st.page_link(r"Pages\3-About-Me.py", label="About Me", icon="🙋‍♂️")
 
 # Page title
 st.markdown('<h1 style="text-align: center; color: #00BFA6; font-weight: bold; margin-bottom: 10px;">Built with Passion by Faisal Almufarrih</h1>', unsafe_allow_html=True)
