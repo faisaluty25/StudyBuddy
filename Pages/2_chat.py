@@ -8,7 +8,7 @@ chatbot_image = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgH
 
 with st.sidebar:
     st.markdown("## 📚 Study Buddy")
-    st.markdown("---")
+    st.markdown("Navigate from the sidebar 👇")
     
 # --------
 # Navigation links
