@@ -9,16 +9,16 @@ chatbot_image = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgH
 
 # --------
 # Navigation links
-col1, col2, col3 = st.columns(3)
+# col1, col2, col3 = st.columns(3)
 
-with col1:
-    st.page_link("main.py", label="Home", icon="🏠")
+# with col1:
+#     st.page_link("main.py", label="Home", icon="🏠")
 
-with col2:
-    st.page_link("Pages/2-chat.py", label="ChatBot", icon="🤖")
+# with col2:
+#     st.page_link("Pages/2-chat.py", label="ChatBot", icon="🤖")
 
-with col3:
-    st.page_link("Pages/3-About-Me.py", label="About Me", icon="🙋‍♂️")
+# with col3:
+#     st.page_link("Pages/3-About-Me.py", label="About Me", icon="🙋‍♂️")
 # ---------
 # Title and subtitle
 st.markdown('<h1 style="text-align: center; color: #00BFA6;">Study Buddy</h1>', unsafe_allow_html=True)

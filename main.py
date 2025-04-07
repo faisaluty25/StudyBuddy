@@ -5,16 +5,16 @@ st.set_page_config(page_title="Welcome to StudyBuddy", page_icon="🎓", layout=
 
 # --------
 # Navigation links
-col1, col2, col3 = st.columns(3)
+# col1, col2, col3 = st.columns(3)
 
-with col1:
-    st.page_link(r"main.py", label="Home", icon="🏠")
+# with col1:
+#     st.page_link(r"main.py", label="Home", icon="🏠")
 
-with col2:
-    st.page_link(r"Pages\2-chat.py", label="ChatBot", icon="🤖")
+# with col2:
+#     st.page_link(r"Pages\2-chat.py", label="ChatBot", icon="🤖")
 
-with col3:
-    st.page_link(r"Pages\3-About-Me.py", label="About Me", icon="🙋‍♂️")
+# with col3:
+#     st.page_link(r"Pages\3-About-Me.py", label="About Me", icon="🙋‍♂️")
 # ---------
 
 # Title and intro
