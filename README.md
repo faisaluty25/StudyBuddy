@@ -16,8 +16,8 @@ It provides tips for **exam preparation**, **time management**, **note-taking**,
 ---
 
 ## 📂 Project Structure
+
 StudyBuddy/
-│
 ├── logicf/
 │ └── StudyBuddy.py # Core chatbot logic and responses
 │
@@ -27,6 +27,9 @@ StudyBuddy/
 │
 ├── main.py # Home page of the Streamlit app
 └── README.md # Project documentation
+
+
+
 
 ## 💡 How It Works
 
