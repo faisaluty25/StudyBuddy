@@ -17,19 +17,21 @@ It provides tips for **exam preparation**, **time management**, **note-taking**,
 
 ## 📂 Project Structure
 
+```plaintext
 StudyBuddy/
 ├── logicf/
-│ ├── pycache/
-│ │ └── StudyBuddy.cpython-311.pyc
-│ └── StudyBuddy.py # Core chatbot logic and responses
+│   ├── __pycache__/
+│   │   └── StudyBuddy.cpython-311.pyc
+│   └── StudyBuddy.py           # Core chatbot logic and responses
 │
 ├── pages/
-│ ├── 2_chat.py # Chat interface in Streamlit
-│ └── 3_About-Me.py # About Me page (personal info)
+│   ├── 2_chat.py               # Chat interface in Streamlit
+│   └── 3_About-Me.py           # About Me page (personal info)
 │
-├── README.md # Project documentation
-├── linkedin Image.jpg # LinkedIn profile image
-└── main.py # Home page of the Streamlit app
+├── README.md                   # Project documentation
+├── linkedin Image.jpg          # LinkedIn profile image
+└── main.py                     # Home page of the Streamlit app
+
 
 
 
