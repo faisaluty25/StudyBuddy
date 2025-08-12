@@ -32,10 +32,7 @@ StudyBuddy/
 ├── linkedin Image.jpg          # LinkedIn profile image
 └── main.py                     # Home page of the Streamlit app
 
-
-
-
-
+```
 ## 💡 How It Works
 
 - **`StudyBuddy.py`** contains predefined patterns and responses using **regular expressions**.
